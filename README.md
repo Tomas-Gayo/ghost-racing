@@ -1,4 +1,4 @@
-# PEC1 Race Game
+# Ghost Racing
 
 ## Index
 
