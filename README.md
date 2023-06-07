@@ -5,15 +5,13 @@
 - [Cómo jugar](https://gitlab.com/Tomas-Gayo/pec1-race-game#c%C3%B3mo-jugar)
 - [Demo](https://gitlab.com/Tomas-Gayo/pec1-race-game#demo)
 - [Puntos importantes](https://gitlab.com/Tomas-Gayo/pec1-race-game#puntos-importantes)
-- [Escenas](https://gitlab.com/Tomas-Gayo/pec1-race-game#escenas)
-- [Estructura de carpetas](https://gitlab.com/Tomas-Gayo/pec1-race-game#estructura-de-carpetas)
 - [Librerías](https://gitlab.com/Tomas-Gayo/pec1-race-game#librer%C3%ADas)
 - [Música y sonido](https://gitlab.com/Tomas-Gayo/pec1-race-game#m%C3%BAsica-y-sonidos)
 - [Atribuciones](https://gitlab.com/Tomas-Gayo/pec1-race-game#atribuciones)
 
 ## Cómo jugar
 
-Para poder jugar a este juego, desde el menu de inicio, se podrá seleccionar la opción de empezar carrera contrareloj o ver la repetición de la mejor vuelta. Para la primera opción podemos **controlar un coche** con las teclas de dirección **W (adelante), S (atrás), D (giro derecha) y A (giro izquierda)**, donde el objetivo será dar 3 vueltas y conseguir el mejor tiempo entre todas las carreras realizadas por el usuario. En la segunda opción no hay posibilidad de controlar el coche, básicamente, es la repetición de la carrera que consigue el mejor tiempo. Por lo que hay unas camaras dispuestas por todo el circuito para ver el coche adecuadamente. Alternativamente, podemos activar la vista original del coche con la tecla **espacio**, esto **situará la camara detras del coche**. Se pude realizar esta acción todas las veces que se quiera hasta terminar la repetición. 
+Existen dos modos de juego: carrera contrareloj, donde se puede correr contra el coche fantasma de la mejor vuelta y; un modo de visualización de la mejor vuelta. En el primer modo, el coche se puede mover con las teclas **WASD** y en el segundo, aunque no se pueda controlar el coche, con la tecla **espacio** se puede cambiar la vista de la camara.
 
 ## Demo
 
