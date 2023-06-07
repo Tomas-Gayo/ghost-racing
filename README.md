@@ -1,4 +1,5 @@
 # Ghost Racing
+Este juego simula el funcionamiento del típico juego de carreras contrareloj. Existen dos modos de juego: carrera contrareloj, donde se puede correr contra el coche fantasma de la mejor vuelta y; un modo de visualización de la mejor vuelta.
 
 ## Index
 
@@ -9,7 +10,7 @@
 
 ## Cómo jugar
 
-Existen dos modos de juego: carrera contrareloj, donde se puede correr contra el coche fantasma de la mejor vuelta y; un modo de visualización de la mejor vuelta. En el primer modo, el coche se puede mover con las teclas **WASD** y en el segundo, aunque no se pueda controlar el coche, con la tecla **espacio** se puede cambiar la vista de la camara.
+En el primer modo, el coche se puede mover con las teclas **WASD** y en el segundo, aunque no se pueda controlar el coche, con la tecla **espacio** se puede cambiar la vista de la camara.
 
 ## Demo
 
