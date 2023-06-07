@@ -5,8 +5,7 @@
 - [Cómo jugar](https://github.com/Tomas-Gayo/ghost-racing/blob/main/README.md#c%C3%B3mo-jugar)
 - [Demo](https://github.com/Tomas-Gayo/ghost-racing/blob/main/README.md#demo)
 - [Librerías](https://github.com/Tomas-Gayo/ghost-racing/blob/main/README.md#librer%C3%ADas)
-- [Música y sonido](https://gitlab.com/Tomas-Gayo/pec1-race-game#m%C3%BAsica-y-sonidos)
-- [Atribuciones](https://gitlab.com/Tomas-Gayo/pec1-race-game#atribuciones)
+- [Atribuciones](https://github.com/Tomas-Gayo/ghost-racing/blob/main/README.md#atribuciones)
 
 ## Cómo jugar
 
@@ -32,10 +31,6 @@ También podéis ver la [demostración del juego en video](https://youtu.be/B2hb
 
 - **Text Mesh Pro**: este asset se ha utilizado para mejorar los estilos de los textos en la UI. Funciona igual que los textos normales pero tiene más opciones de personalización.
 
-# Música y sonidos
-
-Se ha añadido una lista de canciones alineadas con el estilo de juego para que se vayan reproduciendo aleatoriamente cada vez que se entra en una escena. Playlist Manager es quien controla este sistema. 
-Por otro lado, se han añadido sonidos de UI para las acciones de hover y click. También, se pueden escuchar dos sonidos en el countdown al principio de carrera para dar feedback al usuario a partir de sonidos de que la carrera esta apunto de empezar. 
 
 ## Atribuciones
 
