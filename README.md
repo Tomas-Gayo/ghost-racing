@@ -2,7 +2,7 @@
 
 ## Index
 
-- [Cómo jugar](https://gitlab.com/Tomas-Gayo/pec1-race-game#c%C3%B3mo-jugar)
+- [Cómo jugar](https://github.com/Tomas-Gayo/ghost-racing/blob/main/README.md#c%C3%B3mo-jugar)
 - [Demo](https://gitlab.com/Tomas-Gayo/pec1-race-game#demo)
 - [Librerías](https://gitlab.com/Tomas-Gayo/pec1-race-game#librer%C3%ADas)
 - [Música y sonido](https://gitlab.com/Tomas-Gayo/pec1-race-game#m%C3%BAsica-y-sonidos)
