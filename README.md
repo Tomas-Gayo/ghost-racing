@@ -15,7 +15,8 @@ Existen dos modos de juego: carrera contrareloj, donde se puede correr contra el
 
 ## Demo
 
-Se puede ver la [demostración del juego en video](https://youtu.be/HSTqnJGyjZk) en Youtube para su versión de PC. 
+El juego se ha publicado en itch.io, [prueba el juego en su versión Web](https://tomas-gayo.itch.io/ghost-racing).
+También podéis ver la [demostración del juego en video]() en Youtube.
 
 ## Puntos importantes
 
